@@ -1,0 +1,6 @@
+C:\Users\neons\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\neons\source\repos\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\neons\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\fedot\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\fedot\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\fedot\Downloads\Telegram Desktop\Calculator\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
